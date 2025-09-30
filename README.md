@@ -10,7 +10,7 @@
 
 ---
 
-I am a **seasoned, initiative-taking Software Engineer with over 7 years of experience** in creating and executing innovative, data-driven software solutions to enhance business productivity. My journey is fueled by a deep passion for technology that began in childhood and a powerful belief, instilled by my mother, that through knowledge, we have the power to shape our reality.
+I am a **seasoned Software Engineer with over 7 years of experience** in creating and executing innovative, data-driven software solutions to enhance business productivity. My journey is fueled by a deep passion for technology that began in childhood and a powerful belief, instilled by my mother, that through knowledge, we have the power to shape our reality.
 
 My expertise spans the full software development lifecycle, from concept and architecture to development and delivery. 
 ---
