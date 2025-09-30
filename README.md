@@ -17,7 +17,7 @@ My expertise spans the full software development lifecycle, from concept and arc
 
 ### 🚀 My Mission & What I'm Focused On
 
-My professional mission is to be **one of the key fighters in the war against cyber-attacks and AI weaponization** by building securer solutions and helping companies navigate the cybersecurity landscape. The world is increasingly intertwined with technology, making cybersecurity synonymous with everyday security, and I am driven to be ahead of the curve in defending against any and all emerging threats.
+My professional mission is to be **one of the key fighters in the war against cyber-attacks and AI weaponization** by building secure solutions and helping companies navigate the cybersecurity landscape. The world is increasingly intertwined with technology, making cybersecurity synonymous with everyday security, and I am driven to be ahead of the curve in defending against any and all emerging threats.
 
 *   🤖 **Artificial Intelligence & Cybersecurity:** As a Lead Software Engineer at Riverside Technology, Inc. (contractor for NOAA), I design, develop, and deploy AI-powered applications using Python, AWS SageMaker Studio, and AWS Bedrock API to automate complex processes for large climatological datasets. 
 *   🎓 **Continuous Learning:** I am currently advancing my education at Arizona State University, pursuing a Master of Science in Computer Science after completing my Bachelor's in Information Tchnology with a minor in Data Science. Before recieving my Bachelor's, I earned an Associate of Science in Computer Programming and a Certificate in Cybersecurity from Santa Monica College.
