@@ -1,7 +1,7 @@
 # Shardae Douglas | Senior Software Engineer
 
 
-### 👋 Hello! I'm Shardae Douglas, a Senior Software Engineer.
+### 👋 Hello! I'm Shardae Douglas, a Software Engineer.
 
 <p align="left">
   <a href="https://shardaedouglas.dev/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-shardaedouglas.dev-blue?style=flat-square&logo=google-chrome"></a>
